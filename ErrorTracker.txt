@@ -1,0 +1,7 @@
+https://notify.bugsnag.com
+https://sessions.bugsnag.com
+https://api.bugsnag.com
+https://app.bugsnag.com
+
+https://browser.sentry-cdn.com
+https://app.getsentry.com
